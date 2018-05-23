@@ -1,0 +1,3 @@
+# FirstGame
+
+./gradlew desktop:run
